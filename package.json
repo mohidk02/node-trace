@@ -1,0 +1,7 @@
+{
+  "name": "node-trace",
+  "version": "0.1.0",
+  "description": "Trace and visualise the actual execution flow of your own Node.js source files.",
+  "main": "index.js",
+  "license": "MIT"
+}
